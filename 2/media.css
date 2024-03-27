@@ -1,0 +1,141 @@
+@media(max-width:1300px){
+  .p1{
+    margin-left: -95%;
+   }
+}
+
+@media(max-width:993px)
+{
+    #navbar{
+        background-color: darkmagenta;
+        z-index: 2;
+    }
+   #ul{
+    margin-left: 41%;
+   }
+   .servemain{
+    margin-left: 0%;
+   }
+   .p1{
+    margin-left: -90%;
+   }
+   .aboutmain{
+    margin-top: 10px;
+   }
+   #aboutpara{
+    font-size: 15px;
+    font-weight: 500;
+}
+.clientm .row{
+  margin-left: 20px;
+}
+footer .container{
+  margin-left: 100px;
+}
+}
+
+@media(max-width:768px)
+{
+  #ul{
+    margin-left: 38%;
+   }
+   .services{
+    margin-top: 400px;
+   }
+   .servemain{
+    margin-left: 30%;
+   }
+   .p1{
+    margin-left: 0%;
+   }
+   #spara{
+    font-size: 18px;
+   }
+   .about{
+    margin-top: 110px;
+   }
+   .portfolio{
+    margin-top: 600px;
+   }
+   .portmain{
+    margin-left: 90px;
+   }
+   .clientm .row{
+    margin-left: 220px;
+}
+.copy p{
+  font-size: 18px;
+  margin-top: 40px;
+}
+}
+
+@media(max-width:576px)
+{
+  #ul{
+    margin-left: 34%;
+   }
+   .services{
+    margin-top: 300px;
+   }
+   .servemain{
+    margin-left: 27%;
+   }
+   .p1{
+    margin-left: -90%;
+   }
+   .about{
+    margin-top: 160px;
+   }
+   .portfolio{
+    margin-top: 500px;
+   }
+   .portmain{
+    margin-left: 4px;
+   }
+   .testimonial{
+    height: auto;
+   }
+   #spara{
+    font-size: 11px;
+   }
+   .clientm .row{
+    margin-left: 120px;
+}
+.contact button{
+  height: 40px;
+  width: 140px;
+  font-size: 16px;
+}
+.copy p{
+  font-size: 13px;
+  margin-top: 40px;
+}
+}
+
+@media(max-width:480px){
+  #ul{
+    margin-left: 30%;
+   }
+   .services{
+    margin-top: 200px;
+   }
+   .servemain{
+    margin-left: 16%;
+   }
+   .p1{
+    margin-left: -100%;
+   }
+   .portfolio{
+    margin-top: 420px;
+   }
+   .portmain{
+    margin-left: 29px;
+   }
+   .clientm .row{
+    margin-left: 100px;
+}
+.copy p{
+  font-size: 12px;
+  margin-top: 40px;
+}
+}
