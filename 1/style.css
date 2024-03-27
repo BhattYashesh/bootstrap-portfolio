@@ -1,0 +1,69 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.main{
+    height: 700px;
+    background-image: linear-gradient(rgb(0,0,0,0.5),rgb(0,0,0,0.5)),url(images/hero_2.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+}
+.main .write{
+   position: absolute;
+   top: 200px;
+   left: 27%;
+}
+.main .write h1{
+    font-size: 90px;
+}
+.about{
+    height: 400px;
+    width: 100%;
+}
+.card .fa-paper-plane{
+    font-size: 95px;
+}
+.card .fa-desktop{
+    font-size: 95px;
+}
+.card .fa-mobile-screen-button{
+    font-size: 95px;
+}
+.card .fa-magnifying-glass{
+    font-size: 95px;
+}
+.workmain{
+    height: 700px;
+}
+.client{
+    height: 600px;
+}
+.carousel-inner{
+    margin-top: 100px;
+    margin-left: 70px;
+}
+.creative{
+    height: 600px;
+}
+.creative .card-title p{
+    color: blueviolet;
+}
+
+.started{
+    height: 220px;
+    background-color: blueviolet;
+}
+.copy{
+    height: 50px;
+}
+.copy p{
+    font-size: 20px;
+}
+
+.p1{
+    height: 80px;
+    border-radius: 50%;
+}
