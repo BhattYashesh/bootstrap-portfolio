@@ -1,0 +1,260 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.bg1{
+    height: 700px;
+    width: 100%;
+    background-image: url(images/hero_img.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.bg1 img{
+    height: 100%;
+    width: 100%;
+}
+#home{
+    opacity: 100%;
+    font-weight: bold;
+}
+.nav-item{
+   opacity: 75%;
+}
+.nav-item:hover{
+    opacity: 100%;
+    font-weight: bold;
+}
+#mainwrite{
+    font-size: 50px;
+    margin-top: 11%;
+    margin-left: 0%;
+    text-align: center;
+}
+
+.about{
+    height: 600px;
+    width: 100%;
+    margin-top: 50px;
+}
+.btn1{
+    color: white;
+    opacity: 75%;
+    height: 50px;
+    width: 120px;
+    border-radius: 30px;
+    font-size: 18px;
+}
+.btn1:hover{
+    opacity: 100%;
+}
+.btn2{
+    background-color:blue;
+    color: white;
+    opacity: 75%;
+    height: 50px;
+    width: 150px;
+    margin-left: 2%;
+    border-radius: 30px;
+    font-size: 15px;
+}
+.btn2:hover{
+    opacity: 100%;
+}
+.portfolio{
+    height: 770px;
+    width: 80%;
+    margin: auto;
+    margin-top: 80px;
+    /* border: 1px solid red; */
+}
+.portm{
+    height: 700px;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 20px;
+}
+.one{
+    height: 700px;
+    width: 30%;
+    /* border: 1px solid blue; */
+}
+.a{
+    height: 200px;
+     width: 100%;
+     margin-top: 15px;
+    /* border: 1px solid crimson; */
+}
+.a img{
+    height: 100%;
+    width: 100%;
+}
+.b{
+    height: 200px;
+    width: 100%;
+    /* border: 1px solid orchid; */
+    margin-top: 30px;
+}
+.b img{
+    height: 100%;
+    width: 100%;
+}
+.c{
+    height: 200px;
+    width: 100%;
+    /* border: 1px solid orchid; */
+    margin-top: 30px;
+}
+.c img{
+    height: 100%;
+    width: 100%;
+}
+
+.two{
+    height: 700px;
+    width: 30%;
+    /* border: 1px solid orchid; */
+}
+.d{
+   height: 460px;
+   width: 100%;
+   /* border: 1px solid blue; */
+}
+.d img{
+    height: 100%;
+    width: 100%;
+}
+.e{
+  margin-top: 35px;
+  height: 200px;
+  width: 100%;
+  /* border: 1px solid blue; */
+}
+.e img{
+    height: 100%;
+    width: 100%;
+}
+
+.three{
+    height: 700px;
+    width: 30%;
+    /* border: 1px solid orchid; */
+}
+.f{
+    height: 460px;
+    width: 100%;
+    /* border: 1px solid blue; */
+}
+.f img{
+    height: 100%;
+    width: 100%;
+}
+.g{
+    margin-top: 35px;
+    height: 200px;
+    width: 100%;
+    /* border: 1px solid blue; */
+}
+.g img{
+    height: 100%;
+    width: 100%;
+}
+
+.service{
+    height: 500px;
+    width: 100%;
+    margin-top: 80px;
+}
+.card .fa-display{
+    text-align: center;
+    font-size: 60px;
+    margin-top: 20px;
+    color: rgb(50, 77, 50);
+}
+.card .fa-binoculars{
+    text-align: center;
+    font-size: 60px;
+    margin-top: 20px;
+    color: rgb(50, 77, 50);
+}
+.card .fa-bitbucket{
+    text-align: center;
+    font-size: 60px;
+    margin-top: 20px;
+    color: rgb(50, 77, 50);
+}
+#servecard{
+    margin-left: 40%;
+    margin-top: 50px;
+}
+
+.resume{
+    height: 600px;
+    width: 100%;
+    margin-top: 20px;
+}
+.resumem{
+    margin-top: 40px;
+}
+
+.contact{
+    height: 600px;
+    width: 100%;
+    margin-top: 2700px;
+}
+.contact .container{
+    margin-top: 50px;
+}
+.container input{
+    border: none;
+ }
+ .container textarea{
+     width: 100%;
+     border: none;
+ }
+.in-1{
+    width: 50%;
+}
+.in-2{
+    width: 48%; 
+}
+.contact button{
+    height: 45px;
+    width: 170px;
+    font-size: 19px;
+    background-color: transparent;
+    border-radius: 22px;    
+    background-color: rgb(50, 77, 50);
+    color: white;
+    border: none;
+}
+#green{
+    color: rgb(50, 77, 50);
+    font-size: 20px;
+}
+#green2{
+    color: rgb(50, 77, 50);
+}
+
+footer{
+    height: 300px;
+    width: 100%;
+    margin-top: 200px;
+    background-color: rgb(244, 243, 243);
+}
+.button1{
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    background-color: rgb(90, 88, 88);
+    color: white;
+}
+.copy p{
+    text-align: center;
+    font-size: 20px;
+    margin-top: 20px;
+    background-color: rgb(244, 243, 243);
+}

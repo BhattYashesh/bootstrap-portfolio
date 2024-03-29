@@ -1,0 +1,180 @@
+@media(max-width:992px)
+{
+    .navbar-nav{
+        background-color: black;
+        z-index: 2;
+    }
+    .navbar-nav .nav-link{
+        margin-left: 45%;
+    }
+    .bg1{
+        height: auto;
+       
+    }
+    .bg1 img{
+        height: 100%;
+        width: 100%;
+   
+    }
+    #mainwrite{
+        font-size: 50px;
+        margin-top: 12%;
+        margin-bottom: 12%;
+        margin-left: 0%;
+        text-align: center;
+    }
+  #aboutp{
+    font-size: 16px;
+  }
+  #servecard{
+    margin-left: 35%;
+    margin-top: 50px;
+}
+.contact{
+    height: 600px;
+    width: 100%;
+    margin-top: 2800px;
+}
+footer{
+    height: auto;
+    width: 100%;
+    margin-top: 500px;
+    background-color: rgb(244, 243, 243);
+}
+}
+
+
+@media(max-width:768px)
+{
+    #mainwrite{
+        font-size: 40px;
+        margin-top: 12%;
+        margin-bottom: 12%;
+        margin-left: 0%;
+        text-align: center;
+    }
+    .portfolio{
+        margin-top: 100px;
+       }
+      .portm{
+        flex-wrap: wrap;
+      }
+       .one{
+        width: 100%;
+    
+       }
+       .two{
+        
+        width: 100%;
+       }
+       .three{
+        width: 100%;
+       }
+       .service{
+        margin-top: 1500px;
+       }
+       #servecard{
+        margin-left: 30%;
+        margin-top: 50px;
+    }
+    .contact{
+        height: 600px;
+        width: 100%;
+        margin-top: 6000px;
+    }
+    .copy p{
+        font-size: 18px;
+        margin-top: 40px;
+      }
+}
+
+
+@media(max-width:576px)
+{
+    #mainwrite{
+        font-size: 30px;
+        margin-top: 12%;
+        margin-bottom: 12%;
+        margin-left: 0%;
+        text-align: center;
+    }
+   .portfolio{
+    margin-top: 100px;
+   }
+  .portm{
+    flex-wrap: wrap;
+  }
+   .one{
+    width: 100%;
+
+   }
+   .two{
+    
+    width: 100%;
+   }
+   .three{
+    width: 100%;
+   }
+   .service{
+    margin-top: 1450px;
+   }
+   #servecard{
+    margin-left: 25%;
+    margin-top: 50px;
+}
+.contact button{
+    height: 40px;
+    width: 140px;
+    font-size: 16px;
+  }
+  .contact{
+    height: 600px;
+    width: 100%;
+    margin-top: 5500px;
+}
+.copy p{
+    font-size: 13px;
+    margin-top: 40px;
+  }
+}
+
+@media(max-width:480px)
+{
+    #mainwrite{
+        font-size: 25px;
+        margin-top: 12%;
+        margin-bottom: 12%;
+        margin-left: 0%;
+        text-align: center;
+    }
+    .portfolio{
+        margin-top: 100px;
+       }
+      .portm{
+        flex-wrap: wrap;
+      }
+       .one{
+        width: 100%;
+    
+       }
+       .two{
+        
+        width: 100%;
+       }
+       .three{
+        width: 100%;
+       }
+       #servecard{
+        margin-left: 20%;
+        margin-top: 50px;
+    }
+    .contact{
+        height: 600px;
+        width: 100%;
+        margin-top: 5300px;
+    }
+    .copy p{
+        font-size: 12px;
+        margin-top: 40px;
+      }
+}
