@@ -1,0 +1,166 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.bg1{
+    height: 700px;
+    width: 100%;
+    background-image: linear-gradient(rgb(0,0,0,0.5),rgb(0,0,0,0.5)), url(images/hero_2.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.bg1 img{
+    height: 100%;
+    width: 100%;
+}
+#home{
+    opacity: 100%;
+    font-weight: bold;
+}
+.nav-item{
+   opacity: 75%;
+}
+.nav-item:hover{
+    opacity: 100%;
+    font-weight: bold;
+}
+#mainwrite{
+    font-size: 50px;
+    margin-top: 11%;
+    margin-left: 0%;
+    text-align: center;
+}
+#mainp{
+    font-size: 20px;
+}
+.btn1{
+    background-color: rgb(15, 158, 214);
+    color: white;
+    height: 50px;
+    width: 160px;
+    border-radius: 25px;
+    border: none;
+    margin-left: 45%;
+    margin-bottom: 2%;
+}
+.btn1:hover{
+    background-color: black;
+}
+.about{
+    height: 500px;
+    width: 100%;
+}
+.features{
+    height: 500px;
+    width: 100%;
+    margin-top: 100px;
+}
+.btn2{
+    height: 50px;
+    width: 150px;
+    border-radius: 25px;
+    background-color: rgb(24, 105, 226);
+    color: white;
+    border: none;
+}
+.team{
+    height: 900px;
+    width: 100%;
+    margin-top: 80px;
+}
+.service{
+    height: 600px;
+    width: 100%;
+    margin-top: 150px;
+}
+.servicem{
+    margin-top: 50px;
+}
+.servicem .container{
+    margin-left: 12%;
+}
+.fa-rocket{
+    color: rgb(24, 105, 226);
+    font-size: 70px;
+    margin-left: 5%;
+}
+.fa-chart-simple{
+    color: rgb(24, 105, 226);
+    font-size: 70px;
+    margin-left: 5%;
+}
+.fa-screwdriver-wrench{
+    color: rgb(24, 105, 226);
+    font-size: 70px;
+    margin-left: 5%;
+}
+.fa-lightbulb{
+    color: rgb(24, 105, 226);
+    font-size: 70px;
+    margin-left: 5%;
+}
+.fa-money-bill-transfer{
+    color: rgb(24, 105, 226);
+    font-size: 70px;
+    margin-left: 5%;
+}
+.fa-person-chalkboard{
+    color: rgb(24, 105, 226);
+    font-size: 70px;
+    margin-left: 5%;
+}
+
+.contact{
+    height: 500px;
+    margin-top: 80px;
+}
+.container input{
+    border: none;
+ }
+ .container textarea{
+     width: 100%;
+     border: none;
+ }
+
+ .contact .container{
+     margin-top: 50px;
+ }
+ .in-1{
+     width: 50%;
+ }
+ .in-2{
+     width: 48%; 
+ }
+ .contact button{
+     height: 45px;
+     width: 170px;
+     font-size: 19px;
+     background-color: transparent;
+     border-radius: 22px;    
+     background-color: rgb(24, 105, 226);
+     color: white;
+     border: none;
+ }
+
+ footer{
+   margin-top: 270px;
+    background-color: rgb(75, 70, 70);
+    color: white;
+}
+#footp{
+    font-size: 15px;
+}
+footer .container{
+    margin-left: 180px;
+}
+
+footer i{
+    margin-left: 8px;
+}
+.copy p{
+    text-align: center;
+    font-size: 20px;
+    margin-top: 40px;
+}

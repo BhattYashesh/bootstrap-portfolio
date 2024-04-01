@@ -1,0 +1,165 @@
+@media(max-width:992px)
+{
+    .navbar-nav{
+        background-color: black;
+        z-index: 2;
+    }
+    .navbar-nav .nav-link{
+       
+        text-align: center;
+    }
+    .bg1{
+        height: auto;
+       
+    }
+    .bg1 img{
+        height: 100%;
+        width: 100%;
+   
+    }
+    .btn1{
+        margin-left: 42%;
+    }
+    .features{
+        height: 500px;
+        width: 100%;
+        margin-top: 750px;
+    }
+    .team{
+        height: 900px;
+        width: 100%;
+        margin-top: 80px;
+    }
+    .service{
+        height: 600px;
+        width: 100%;
+        margin-top: 1100px;
+    }
+    .servicem .container{
+        margin-left: 38%;
+    }
+    .contact{
+        margin-top: 1200px;
+    }
+    footer .container{
+        margin-left: 100px;
+      }
+}
+
+@media(max-width:768px)
+{
+    .bg1{
+        height: auto;
+    }
+    .btn1{
+        margin-left: 39%;
+    }
+    .features{
+        height: 500px;
+        width: 100%;
+        margin-top: 600px;
+    }
+    .team{
+        height: 900px;
+        width: 100%;
+        margin-top: 150px;
+    }
+    .team .container{
+        margin-left: 30%;
+    }
+    .service{
+        height: 600px;
+        width: 100%;
+        margin-top: 2900px;
+    }
+    .servicem .container{
+        margin-left: 34%;
+    }
+    .contact{
+        margin-top: 1150px;
+    }
+    .copy p{
+        font-size: 18px;
+        margin-top: 40px;
+      }
+}
+
+@media(max-width:576px)
+{
+    .bg1{
+        height: auto;
+    }
+    #mainp{
+        font-size: 16px;
+    }
+    .btn1{
+        margin-left: 36%;
+    }
+    .features{
+        height: 500px;
+        width: 100%;
+        margin-top: 450px;
+    }
+    .team{
+        height: 900px;
+        width: 100%;
+        margin-top: 250px;
+    }
+    .team .container{
+        margin-left: 22%;
+    }
+    .service{
+        height: 600px;
+        width: 100%;
+        margin-top: 2900px;
+    }
+    .servicem .container{
+        margin-left: 25%;
+    }
+    .contact{
+        margin-top: 1100px;
+    }
+    .contact button{
+        height: 40px;
+        width: 140px;
+        font-size: 16px;
+      }
+      .copy p{
+        font-size: 13px;
+        margin-top: 40px;
+      }
+}
+
+
+@media(max-width:480px)
+{
+    .bg1{
+        height: auto;
+    }
+    #mainp{
+        font-size: 15px;
+    }
+    .btn1{
+        margin-left: 34%;
+    }
+    .features{
+        height: 500px;
+        width: 100%;
+        margin-top: 350px;
+    }
+    .team{
+        height: 900px;
+        width: 100%;
+        margin-top: 330px;
+    }
+    .team .container{
+        margin-left: 18%;
+    }
+    .contact{
+        margin-top: 1000px;
+    }
+    .copy p{
+        font-size: 12px;
+        margin-top: 40px;
+      }
+}
